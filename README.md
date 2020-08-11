@@ -1,2 +1,0 @@
-# Corsera-kursas
-corsera sule
